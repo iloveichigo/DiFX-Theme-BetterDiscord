@@ -1,0 +1,35 @@
+/**
+ * @name DiFX
+ * @author wexinioN
+ * @version 1.0.X
+ * @description A theme based on GGO Kirito theme
+ * @source https://github.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/tree/master/Themes/GGO_Kirito
+ */
+
+@import url('https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css');
+@import url('https://raw.githack.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/core.css');
+
+:root {
+    --background: url('https://scontent.cdninstagram.com/v/t51.39111-15/290657377_1216428835825662_8055302078339343928_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=111&ccb=1-7&_nc_sid=5a057b&_nc_ohc=GbR1QDNHJhkAX936XuJ&_nc_oc=AQn-nRyg-N5FF2s0Br3808OEWiMyMFuULPW6FkGvw-jnLIxkznqSJiZN_xmcsJAi_PN7w09cLXEoiveFUIP3xqsC&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=02_ARpPQZpS_pf3nHXZHs_Y_6lP4BguZvJU-mcc4VhNT5UZGQ&oe=62BE36D0');
+    --activetext-colour: white;
+    --primary1-colour: rgb(0, 140, 255);
+    --primary2-colour: rgba(0, 110, 255, 0.5);
+    --primary3-colour: rgba(0, 132, 255, 0.6);
+    --secondary1-colour: rgba(50,50,50,0.3);
+    --secondary2-colour: rgba(100,100,100,0.5);
+    --secondary3-colour: rgba(0,0,0,0.5);
+    --transparency-1: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-2: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-3: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-4: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+}
+  
+/*
+Theme Owned and Made by VaporousCreeper#9514
+  
+Background Img: https://wpblink.com/sites/default/files/wallpaper/anime/66761/sword-art-online-ii-wallpapers-hd-66761-327252.png 
+Transparency2 Module: https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency2.css - By Ruben7173#5048
+
+The 2 items above are not owned by me, They go to there respected owners 
+*/
